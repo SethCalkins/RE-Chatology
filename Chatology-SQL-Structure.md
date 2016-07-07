@@ -1,4 +1,4 @@
-
+# Structure
 
 ```sql
 CREATE TABLE IF NOT EXISTS account (
@@ -82,3 +82,5 @@ CREATE TABLE IF NOT EXISTS metadata (
   value integer
 );
 ```
+
+
