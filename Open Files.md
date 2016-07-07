@@ -99,16 +99,16 @@
 
  # Chatology Helper
  
-/Applications/Chatology.app/Contents/Library/LoginItems/Chatology Helper.app/Contents/MacOS/Chatology Helper
+    /Applications/Chatology.app/Contents/Library/LoginItems/Chatology Helper.app/Contents/MacOS/Chatology Helper
 
-/System/Library/Caches/com.apple.IntlDataCache.le.kbdx
+    /System/Library/Caches/com.apple.IntlDataCache.le.kbdx
 
-/System/Library/PrivateFrameworks/AccessibilityBundles.framework/Versions/A/AccessibilityBundles
+    /System/Library/PrivateFrameworks/AccessibilityBundles.framework/Versions/A/AccessibilityBundles
 
-/usr/share/icu/icudt55l.dat
+    /usr/share/icu/icudt55l.dat
 
-/private/var/folders/40/fxpwtv7d1zx0g_1cmkr_9y9m0000gn/0/com.apple.LaunchServices-134501.csstore
+    /private/var/folders/40/fxpwtv7d1zx0g_1cmkr_9y9m0000gn/0/com.apple.LaunchServices-134501.csstore
 
-/System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat
+    /System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat
 
-/private/var/db/dyld/dyld_shared_cache_x86_64
+    /private/var/db/dyld/dyld_shared_cache_x86_64
