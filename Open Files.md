@@ -97,10 +97,6 @@
 
     /Applications/Chatology.app/Contents/Frameworks/CocoaLumberjack.framework/Versions/A/CocoaLumberjack
 
-
-
-
-
  # Chatology Helper
  
 /Applications/Chatology.app/Contents/Library/LoginItems/Chatology Helper.app/Contents/MacOS/Chatology Helper
